@@ -4,8 +4,6 @@ A product case study and PRD for onboarding in Cloudflare Zero Trust, written fr
 
 **Author:** Krupa Nirmal · November 2026
 
-> **Before publishing:** Krupa, please check your NDA and any employer policies on public portfolio work before you make this repo or the carousel public.
-
 Independent concept. Not affiliated with or endorsed by Cloudflare. The mockups use synthetic data and no Cloudflare logos or branding.
 
 ## The short version
