@@ -1,0 +1,12 @@
+# raw pulls (may contain usernames or other personal info)
+raw/
+# full copies of third-party docs, kept locally for step counting only
+docs_text/
+# full-page screenshots (viewport versions in screens/ are kept)
+screens/full/
+# build intermediates
+build/img/
+carousel/carousel.html
+__pycache__/
+*.pyc
+.DS_Store

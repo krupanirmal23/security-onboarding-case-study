@@ -1,0 +1,12 @@
+01_get_started https://developers.cloudflare.com/cloudflare-one/setup/
+02_first_time_setup https://developers.cloudflare.com/cloudflare-one/team-and-resources/devices/cloudflare-one-client/set-up/
+03_idp_overview https://developers.cloudflare.com/cloudflare-one/integrations/identity-providers/
+04_idp_otp https://developers.cloudflare.com/cloudflare-one/integrations/identity-providers/one-time-pin/
+05_idp_entra https://developers.cloudflare.com/cloudflare-one/integrations/identity-providers/entra-id/
+06_idp_okta https://developers.cloudflare.com/cloudflare-one/integrations/identity-providers/okta/
+07_enrollment_permissions https://developers.cloudflare.com/cloudflare-one/team-and-resources/devices/cloudflare-one-client/deployment/device-enrollment/
+08_manual_deployment https://developers.cloudflare.com/cloudflare-one/team-and-resources/devices/cloudflare-one-client/deployment/manual-deployment/
+09_dns_first_policy https://developers.cloudflare.com/cloudflare-one/traffic-controls/get-started/dns/
+10_private_web_app https://developers.cloudflare.com/cloudflare-one/setup/secure-private-apps/private-web-app/
+11_plans https://www.cloudflare.com/plans/zero-trust-services/
+12_signup https://dash.cloudflare.com/sign-up
